@@ -1,6 +1,6 @@
 # Snake Game Using Java
 
-<img src="app-demo.gif" width=350>
+<img src="app_demo.gif" width=350>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
