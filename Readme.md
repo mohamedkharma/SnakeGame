@@ -32,6 +32,3 @@ Run the game
 java SnakeGame/SnakeMain
 ```
 
-
-*Game logic is explained here*
-following YouTube tutorial: [Bro Code](https://www.youtube.com/watch?v=bI6e6qjJ8JQ&amp;t=1555s)
